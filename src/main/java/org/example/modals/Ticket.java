@@ -9,7 +9,6 @@ import java.util.Date;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-@Builder
 public class Ticket extends BaseModel{
 
     private Vehicle vehicle;
